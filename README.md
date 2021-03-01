@@ -14,3 +14,6 @@ git status (to check)
 git add * (to add all files)
 git commit -m "message"
 git push 
+
+
+The simple app is run by command line in terminal by "./hello.py --vlaue1 1 --value2 2"
