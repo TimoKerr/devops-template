@@ -1,0 +1,6 @@
+pylint
+black
+ipython
+pytest
+click
+flask
